@@ -1,0 +1,4 @@
+OPEN CELL:
+1. Do the following only if the cell has not already been opened. Check for number of mines adjacent.
+	a) If n = 0, then open this cell and oepn all adjacent cells.
+	b) Else, only open yourself. Do not open any cells at all.
